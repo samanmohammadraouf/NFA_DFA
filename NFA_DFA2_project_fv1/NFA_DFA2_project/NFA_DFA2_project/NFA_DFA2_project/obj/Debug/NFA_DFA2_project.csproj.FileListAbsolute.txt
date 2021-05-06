@@ -1,0 +1,34 @@
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\NFA_DFA2_project.exe.config
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\NFA_DFA2_project.exe
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\NFA_DFA2_project.pdb
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.dll
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.Drawing.dll
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.pdb
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.csprojResolveAssemblyReference.cache
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.exe
+D:\c# projects\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\NFA_DFA2_project.exe.config
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\NFA_DFA2_project.exe
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\NFA_DFA2_project.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.csprojAssemblyReference.cache
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.csproj.CoreCompileInputs.cache
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.csproj.CopyComplete
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.exe
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\NFA_DFA2_project.exe.config
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\NFA_DFA2_project.exe
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\NFA_DFA2_project.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.csprojAssemblyReference.cache
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.csproj.CoreCompileInputs.cache
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.csproj.CopyComplete
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.exe
+C:\Users\morte\OneDrive\Desktop\NFA_DFA2_project_fv1\NFA_DFA2_project\NFA_DFA2_project\NFA_DFA2_project\obj\Debug\NFA_DFA2_project.pdb
